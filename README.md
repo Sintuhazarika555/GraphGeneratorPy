@@ -114,7 +114,3 @@ Created by [Sintu Hazarika](https://github.com/Sintuhazarika55)
 
 ```
 
----
-
-⚡ Would you like me to also **generate the MIT `LICENSE` file code** in the same way (so you can just paste it into `LICENSE`)?
-```
