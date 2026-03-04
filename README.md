@@ -1,5 +1,4 @@
 
-
 # 📊 Graph Generator in Python
 
 A simple and interactive **Graph Generator** built with Python.  
@@ -13,19 +12,6 @@ This project allows you to input values and generate different types of graphs (
 - Customizable labels, titles, and colors
 - Beginner-friendly and easy to run
 - Built with **matplotlib**
-
----
-
-## 📂 Project Structure
-```
-
-graph-generator/
-│── main.py            # Main script to run the project
-│── graph\_generator.py # GraphGenerator class
-│── requirements.txt   # Required dependencies
-│── README.md          # Project documentation
-
-````
 
 ---
 
